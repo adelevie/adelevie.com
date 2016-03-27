@@ -3,6 +3,8 @@
 - mark
 - down
 
-```
-A code sample
+```ruby
+def hello
+  "world"
+end
 ```
