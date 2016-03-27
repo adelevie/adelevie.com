@@ -10,3 +10,11 @@ def foo
   "bar"
 end
 ```
+
+```ruby
+class SomeClass < SomeParentClass
+  def initialize(foo)
+    @foo = foo
+  end
+end
+```
