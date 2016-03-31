@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>{{.Doc.title}}</title>
-	</head>
-	<body>
-		Welcome to {{.Doc.sitename}}!
-		<br><br>
-		{{.Doc.body}}
-	</body>
+  <head>
+    <title>{{.Doc.title}} | {{.Doc.sitename}}</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/site/css/main.css">
+    <link rel="stylesheet" href="/site/css/highlight.css">
+    <script src="/site/js/main.js"></script>
+    <script src="/site/js/highlight.js"></script>
+  </head>
+  <body>
+    {{.Doc.body}}
+  </body>
 </html>

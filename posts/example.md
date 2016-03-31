@@ -1,7 +1,6 @@
 ---
 template: layout
 title: Example
-sitename: A Caddy site
 ---
 
 ```
