@@ -10,3 +10,8 @@ I am a technologist at [18F](https://18f.gsa.gov), a digital consultancy within 
 ## Posts
 
 - [The FCC's status as an independent agency](/posts/fcc-independent-agency)
+
+## Links
+
+- [GitHub](https://github.com/adelevie)
+- [Twitter](https://twitter.com/adelevie)
