@@ -21,4 +21,4 @@ ECFS searches yield the following findings:
 - The General Services Administration (GSA) has submitted at least 225 regulatory filings to the FCC from 1998 to 2005.
 - The Department of Justice (DOJ) has submitted at least 296 regulatory filings to the FCC from 1992 to 2015.
 - The Department of Homeland Security (DHS) has submitted at least 148 regulatory filings to the FCC from 2003 to 2015.
--The Department of the Interior (DOI) has at least 24 regulatory filings to the FCC from 1988 to 2012.
+- The Department of the Interior (DOI) has at least 24 regulatory filings to the FCC from 1988 to 2012.
